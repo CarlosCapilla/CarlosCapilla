@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CarlosCapilla
-- 👀 I’m interested in Data analytics, Business analytics and Big Data
-- 🌱 I’m currently learning SQL, PowerBI and Python
-- At the moment I'm a complete beginner working hard
+- 👀 I’m interested Business Intelligence and Data analytics,
+- At the moment I'm a beginner working hard to get a good portfolio
 - 📫 reach me at carlosscapilla@gmail.com
 
 <!---
